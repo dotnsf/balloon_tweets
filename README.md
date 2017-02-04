@@ -4,6 +4,10 @@
 
 ![image](http://i.imgur.com/sMfJpg0.png "image")
 
+- This is sample result page:
+
+![image](http://i.imgur.com/cSHFnIc.png "image")
+
 
 ## Overview
 
