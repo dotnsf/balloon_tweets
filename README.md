@@ -2,7 +2,7 @@
 
 - Sample HTML template to show tweets with balloon style in Node-RED.
 
-![image](http://imgur.com/a/1R0lM "image")
+![image](http://imgur.com/sMfJpg0 "image")
 
 
 ## Overview
